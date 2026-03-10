@@ -1,0 +1,5 @@
+com\gal\Main.class
+com\gal\model\Supplier.class
+com\gal\model\Item.class
+com\gal\model\Supply.class
+com\gal\EntityManagerFactoryProvider.class
